@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm ShreyaRaundal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?q=animate%20coding%20image&imgurl=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1162077%2Fscreenshots%2F3848914%2Fprogrammer.gif&imgrefurl=https%3A%2F%2Foutlane.co%2Fnow%2Fnew-shot-programmer-animation%2F&docid=hyRv46xL2D6dsM&tbnid=ZmOH4FBlhx83-M&vet=12ahUKEwjk_M3s8ZWJAxW_klYBHXywNTEQM3oECHsQAA..i&w=800&h=600&hcb=2&ved=2ahUKEwjk_M3s8ZWJAxW_klYBHXywNTEQM3oECHsQAA>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyaraundal&label=Profile%20views&color=0e75b6&style=flat" alt="shreyaraundal" /> </p>
 
 <p align="left"> <a href="https://twitter.com/raundalshr22133" target="blank"><img src="https://img.shields.io/twitter/follow/raundalshr22133?logo=twitter&style=for-the-badge" alt="raundalshr22133" /></a> </p>
