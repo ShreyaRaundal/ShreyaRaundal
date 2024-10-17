@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **MEARN**
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **shreyaraundal@gmail.com**
 
